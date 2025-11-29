@@ -1,7 +1,6 @@
 # Spotify Advanced SQL Project and Query Optimization
+The data for this project is sourced from Kaggle: [Kaggle Spotify Dataset](https://github.com/sumnima08/spotify_sql_project/blob/main/cleaned_dataset.csv)
 
-Dataset
-The data for this project is sourced from Kaggle:
 
 ![Spotify Logo](https://github.com/sumnima08/spotify_sql_project/blob/main/Spotify_Full_Logo_RGB_Green.png)
 
